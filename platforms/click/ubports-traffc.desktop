@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ubports-traffc
+Comment=web container for the web page https://traffc.info/
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=https?://*traffc.info/* https://traffc.info
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=./traffc-logo.png
+Name[en_US]=ubports-traffc.desktop

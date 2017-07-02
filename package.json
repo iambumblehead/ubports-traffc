@@ -1,0 +1,9 @@
+{
+  "name": "ubports-traffc",
+  "description": "web container for the web page https://traffc.info/",
+  "author": "Chris <chris@bumblehead.com>",
+  "license" : "MIT",
+  "repository": "https://github.com/iambumblehead/ubports-traffc",
+  "readmeFilename": "README.md",
+  "version": "1.0.0"
+}
